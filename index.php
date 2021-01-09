@@ -1,5 +1,5 @@
 <?php
 
-include_once("The last link.html);
+include_once("index.html);
 
 ?>
